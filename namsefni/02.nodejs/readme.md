@@ -10,6 +10,10 @@ Yfirferð á [node.js](https://nodejs.org/)
 
 Dæmi og fyrirlestrar nota Node.js 16 en í dag ætti að nota útgáfu 20.
 
+Dæmi hér nota CommonJS modules en öllur önnur dæmi nota ECMAScript modules. Í dag ætti að nota ECMAScript modules nema eitthvað sérstakt krefjist að svo sé ekki.
+
+Í dag ætti nær eingöngu að nota `fs/promises` en dæmi hér nota `fs` og `util.promisify`.
+
 ## Dæmi
 
 * [log.js](daemi/04.log.js)

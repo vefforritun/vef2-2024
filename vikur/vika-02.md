@@ -6,10 +6,9 @@ Fyrirlestrar koma inn eftir fyrirlestur 17. janúar.
 
 ## Námsefni
 
-Óyfirfarið námsefni, gæti breyst eitthvað, kemur inn fullyfirfarið í viku 1.
-
 * [node.js](../namsefni/02.nodejs)
 * [Einingar](../namsefni/03.modules)
+* [Test](../namsefni/04.testing)
 
 ## Verkefni
 
