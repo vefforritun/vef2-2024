@@ -24,6 +24,8 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 2 
 
 Nánar er [fjallað um kennsluáætlun í viku 1](vikur/vika-01.md).
 
+[Stutt yfirferð yfir uppsetningu á námsefni í byrjun fyrirlesturs 2.3](https://www.youtube.com/watch?v=FkYxDExWSSU).
+
 [Kennslualmanak háskólaárið 2023–2024](https://ugla.hi.is/kennsluskra/index.php?tab=skoli&chapter=content&id=49140).
 
 ## Vikublöð
