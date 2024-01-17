@@ -4,6 +4,8 @@ node 01.hello-world.js
 eða
 npm run dev
 sem keyrir nodemon sem hlustar á breytingar og endurhleður fyrir okkur
+síðan opna vafra á
+http://127.0.0.1:3000
 
 Keyrir upp einfaldan express þjón sem svarar á / og /bye
 Þar sem "Hello World!" er ekki með skilgreint path mun það svara fyrir öll
@@ -28,7 +30,7 @@ app.use('/bye', (req, res) => {
 });
 
 app.use((req, res) => {
-  console.info('Heimsókn!')
+  console.info('Heimsókn!');
   res.send('Hello World! Halló halló');
 });
 

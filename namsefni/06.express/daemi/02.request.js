@@ -1,6 +1,8 @@
 /*
 Keyrt með:
 node 02.request.js
+og opna vafra á
+http://127.0.0.1:3000
 
 Keyrir upp einfaldan express þjón sem skrifar út ýmislegt úr request hlut, sjá
 http://expressjs.com/en/4x/api.html#req

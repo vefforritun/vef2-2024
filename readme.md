@@ -17,7 +17,7 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 2 
 | 9    | 4. mars     | React                                                  | Hópverkefni #2       | Hópverkefni #1                    |
 | 10   | 11. mars    | Next.js; GraphQL                                       | Verkefni #5          |                                   |
 | 11   | 18. mars    | Annað efni                                             |                      |                                   |
-| 12   | 25. mars    | **Engin tími**                                         |                      | Verkefni #5; Einstaklingsverkefni |
+| 12   | 25. mars    | **Engin fyrirlestur**                                  |                      | Verkefni #5; Einstaklingsverkefni |
 | 13   | 1. apríl    | **Páskafrí** mánudag; kynningar og stoðtími miðvikudag |                      |                                   |
 | 14   | 8. apríl    | Kynningar; stoðtími                                    |                      | Hópverkefni #2                    |
 | 15   | 15. apríl   | Buffer                                                 |                      |                                   |
@@ -53,7 +53,7 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 - [Vika 2, 15.–21. janúar 2024](vikur/vika-02.md)
   - Node.js & NPM; Testing
 - [Vika 3, 22.–28. janúar 2024](vikur/vika-03.md)
-  - HTTP; Express; Form
+  - HTTP; Express
 
 ## Verkefni
 

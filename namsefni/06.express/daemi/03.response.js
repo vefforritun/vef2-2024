@@ -1,6 +1,8 @@
 /*
 Keyrt með:
 node 03.response.js
+og síðan opna vafra á
+http://localhost:3000
 
 Keyrir upp einfaldan express þjón sem skrifar út ýmislegt úr response hlut,
 notar einnig föll til að skrifa headers og í response
