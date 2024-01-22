@@ -1,7 +1,7 @@
 module.exports = {
   extends: ['airbnb-base', 'plugin:react/recommended'],
   parserOptions: {
-    ecmaVersion: 2018,
+    ecmaVersion: 2021,
     ecmaFeatures: {
       jsx: true,
     },

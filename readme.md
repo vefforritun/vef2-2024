@@ -56,6 +56,8 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
   - Node.js & NPM; Testing
 - [Vika 3, 22.–28. janúar 2024](vikur/vika-03.md)
   - HTTP; Express
+- [Vika 4, 29. janúar–4. febrúar](vikur/vika-04.md)
+  - Form; Cookies & sessions; notendaumsjón
 
 ## Verkefni
 
