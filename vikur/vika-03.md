@@ -2,7 +2,9 @@
 
 ## Fyrirlestrar
 
-Fyrirlestrar koma inn eftir fyrirlestur 24. janúar.
+- [Kynning á einstaklingsverkefni (10:53)](https://youtu.be/xC0uXvLa9DE)
+- [Fyrirlestur 3.1: Yfirferð á námsefni vikunnar (36:51)](https://youtu.be/uYQxBPn4w2M)
+- [Fyrirlestur 3.2: Áframhald á lausn á verkefni 1 (1:13:33)](https://youtu.be/GDtPd-aYxZo)
 
 ## Námsefni
 
