@@ -15,7 +15,7 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 2 
 | 7    | 19. febrúar | TypeScript                                             |                      |                                   |
 | 8    | 26. febrúar | cache, redis; framenda framework, React                | Verkefni #4          | Verkefni #3                       |
 | 9    | 4. mars     | React                                                  | Hópverkefni #2       | Hópverkefni #1                    |
-| 10   | 11. mars    | Next.js; GraphQL                                       | Verkefni #5          |                                   |
+| 10   | 11. mars    | Next.js; GraphQL                                       | Verkefni #5          | Verkefni #4                       |
 | 11   | 18. mars    | Annað efni                                             |                      |                                   |
 | 12   | 25. mars    | **Engin fyrirlestur**                                  |                      | Verkefni #5; Einstaklingsverkefni |
 | 13   | 1. apríl    | **Páskafrí** mánudag; kynningar og stoðtími miðvikudag |                      |                                   |
@@ -58,6 +58,8 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
   - HTTP; Express
 - [Vika 4, 29. janúar–4. febrúar](vikur/vika-04.md)
   - Form; Cookies & sessions; notendaumsjón
+- [Vika 5, 5.–11. febrúar](vikur/vika-05.md)
+  - postgres; hýsing
 
 ## Verkefni
 
@@ -67,6 +69,10 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
   - Sett fyrir 17. janúar
   - Skilist 1. febrúar
   - [Sýnilausn](https://github.com/vefforritun/vef2-2024-v1-synilausn), gerð aðgengileg eftir skil
+- [Verkefni 2](https://github.com/vefforritun/vef2-2024-v2)
+  - Sett fyrir 31. janúar
+  - Skilist 15. febrúar
+  - [Sýnilausn](https://github.com/vefforritun/vef2-2024-v2-synilausn), gerð aðgengileg eftir skil
 
 ### Hópverkefni
 
