@@ -2,7 +2,9 @@
 
 ## Fyrirlestrar
 
-Fyrirlestrar koma inn eftir fyrirlestur 31. janúar.
+- [Fyrirlestur 4.1: Aðeins meira um verkefni 1 (33:36)](https://youtu.be/g3TEMJ7Y7Jc)
+- [Verkefni 2, kynning (8:58)](https://youtu.be/OlYfb4N-IZQ)
+- [Fyrirlestur 4.2: express og notendaumsjón í samhengi við verkefni 2 (1:15:34)](https://youtu.be/45wAA23x5FA)
 
 ## Námsefni
 
