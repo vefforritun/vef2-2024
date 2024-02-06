@@ -1,4 +1,4 @@
-# Vika 5, 5.–11. febrúar 2023
+# Vika 5, 5.–11. febrúar 2024
 
 ## Fyrirlestrar
 
