@@ -2,7 +2,11 @@
 
 ## Fyrirlestrar
 
-Fyrirlestrar koma inn eftir fyrirlestur 7. febrúar.
+- [Fyrirlestur 5: áframhald á verkefni 2](https://youtu.be/iKcDe3YtmjQ)
+
+Í fyrrihluta var umræða um bakenda og framenda sem endaði á þessari rosalegu mynd:
+
+![Mynd af framenda og bakenda úr fyrirlestri 5](img/f5-full.jpeg) ([myndir af hverjum hluta í möppu](img/)).
 
 ## Námsefni
 
