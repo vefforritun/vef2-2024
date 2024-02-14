@@ -62,6 +62,8 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
   - postgres; hýsing
 - [Vika 6, 12.–18. febrúar](vikur/vika-06.md)
   - Öryggi; Vefþjónustur
+- [Vika 7, 19.–25. febrúar](vikur/vika-07.md)
+  - TypeScript
 
 ## Verkefni
 
@@ -73,8 +75,12 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
   - [Sýnilausn](https://github.com/vefforritun/vef2-2024-v1-synilausn), gerð aðgengileg eftir skil
 - [Verkefni 2](https://github.com/vefforritun/vef2-2024-v2)
   - Sett fyrir 31. janúar
-  - Skilist 15. febrúar
+  - Skilist ~15.~ 22. febrúar
   - [Sýnilausn](https://github.com/vefforritun/vef2-2024-v2-synilausn), gerð aðgengileg eftir skil
+- [Verkefni 3](https://github.com/vefforritun/vef2-2024-v3)
+  - Sett fyrir 14. febrúar
+  - Skilist 29. febrúar
+  - [Sýnilausn](https://github.com/vefforritun/vef2-2024-v3-synilausn), gerð aðgengileg eftir skil
 
 ### Hópverkefni
 
@@ -96,10 +102,9 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 
 Ekkert lokapróf, lokaeinkunn er út frá verkefnaskilum:
 
-- 50% fyrir verkefni 1–4.
+- 50% fyrir verkefni 1–5.
   - Verkefni 5 fellt niður.
-  - Hvert verkefni gildir 12,5%.
+  - Bestu fjögur verkefni gilda 12,5%.
 - 40% fyrir hópverkefni 1 og 2.
-- 15% fyrir einstaklingsverkefni.
-  - Auka 5% til upphækkunnar.
+- 10% fyrir einstaklingsverkefni.
 - 10% fyrir kynningu á einstaklingsverkefni (valkvæmt og til upphækkunnar).
