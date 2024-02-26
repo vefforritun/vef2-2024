@@ -4,7 +4,7 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 2 
 
 ## Kennsluáætlun
 
-| Vika | Mánudagur   | Námsefni                                               | Verkefni             | Skil                 |
+| Vika | Mánudagur   | Námsefni                                               | Verkefni sett fyrir  | Skil                 |
 | ---- | ----------- | ------------------------------------------------------ | -------------------- | -------------------- |
 | 1    | 8. janúar   | Kynning; form áfanga; upprifjun úr vef1                |                      |                      |
 | 2    | 15. janúar  | Node.js & NPM; Testing                                 | Verkefni #1          |                      |
@@ -64,6 +64,8 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
   - Öryggi; Vefþjónustur
 - [Vika 7, 19.–25. febrúar](vikur/vika-07.md)
   - TypeScript; cache, redis
+- [Vika 8, 26. febrúar–3. mars](vikur/vika-08.md)
+  - Framenda framework; React
 
 ## Verkefni
 
@@ -79,8 +81,12 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
   - [Sýnilausn](https://github.com/vefforritun/vef2-2024-v2-synilausn), gerð aðgengileg eftir skil
 - [Verkefni 3](https://github.com/vefforritun/vef2-2024-v3)
   - Sett fyrir 14. febrúar
-  - Skilist 29. febrúar
+  - Skilist 7. mars
   - [Sýnilausn](https://github.com/vefforritun/vef2-2024-v3-synilausn), gerð aðgengileg eftir skil
+- [Verkefni 4](https://github.com/vefforritun/vef2-2024-v4)
+  - Sett fyrir 28. febrúar
+  - Skilist 21. mars
+  - [Sýnilausn](https://github.com/vefforritun/vef2-2024-v4-synilausn), gerð aðgengileg eftir skil
 
 ### Hópverkefni
 
