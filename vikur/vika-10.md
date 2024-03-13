@@ -2,7 +2,13 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 10 miðvikudaginn 13. mars.
+- [Fyrirlestur 10.1: State og React Router (41:45)](https://youtu.be/6zyarZV3DCY)
+- [Fyrirlestur 10.2: useEffect og gögn sótt (55:55)](https://youtu.be/hu8hs8GuCs8)
+
+### Efni nefnt í fyrirlestri
+
+- [tRPC: Move Fast and Break Nothing. End-to-end typesafe APIs made easy.](https://trpc.io/)
+- [zod: TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)
 
 ## Námsefni
 
