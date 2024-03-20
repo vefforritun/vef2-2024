@@ -17,7 +17,7 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 2 
 | 9    | 4. mars     | React                                                  |                      | Verkefni #3          |
 | 10   | 11. mars    | React; Next.js                                         | Hópverkefni #2       | Hópverkefni #1       |
 | 11   | 18. mars    | Next.js; GraphQL; Annað efni                           | Verkefni #5          | Verkefni #4          |
-| 12   | 25. mars    | **Engin fyrirlestur**                                  |                      | Einstaklingsverkefni |
+| 12   | 25. mars    | **Páskafrí**                                           |                      | Einstaklingsverkefni |
 | 13   | 1. apríl    | **Páskafrí** mánudag; kynningar og stoðtími miðvikudag |                      |                      |
 | 14   | 8. apríl    | Kynningar; umræðutími, frjálst efni                    |                      | Verkefni #5          |
 | 15   | 15. apríl   | Umræðutími, frjálst efni                               |                      | Hópverkefni #2       |
